@@ -1,5 +1,6 @@
-### Hey😄, Welcome to my world of code👋
+<img src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/man-technologist_1f468-200d-1f4bb.png">
 
+### Hey <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"> Welcome to my world of code
 <!--
 **Ujjawal-Indwar/Ujjawal-Indwar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

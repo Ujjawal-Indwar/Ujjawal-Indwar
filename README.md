@@ -1,4 +1,4 @@
-### Hi, My name is Ujjawal Indwar and welcome to my github repo 👋
+### Hi, My name is Ujjawal Indwar! Welcome👋
 
 <!--
 **Ujjawal-Indwar/Ujjawal-Indwar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

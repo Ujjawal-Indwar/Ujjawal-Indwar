@@ -4,6 +4,8 @@
 <!--
 **Ujjawal-Indwar/Ujjawal-Indwar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+<img src="https://activity-graph.herokuapp.com/graph?username=kaiwalyakoparkar&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true">
+
 ## ⚡ Technologies
 
 ### Language :
